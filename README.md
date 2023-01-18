@@ -23,7 +23,7 @@ Since the original repository is no longer updated, I have updated some of the p
     - 这个项目支持了绝大部分的CJK(CJK Unified Ideographs)，即中日韩统一表意文字  This project supports most of the CJK
     - 字体样式模仿原本的乱码字体(Flow-Circular)效果 Font style mimics the original garbled effect(Flow-Circular)
 
-> 事实上，kurakart已经完成了CKJ的兼容部分，但是仅仅发布在obsidian论坛而不是github上。他通过last-resort-font和redacted-font实现的兼容工作是有限的，但是跟原始的乱码效果并不匹配（而我认为原始的乱码效果更加优雅）。所以我根据原始乱码效果编写了一个字体文件来代替last-resort-font和redacted-font。
+> 事实上，kurakart已经完成了CKJ的兼容部分，但是仅仅发布在obsidian论坛而不是github上。他通过last-resort-font和redacted-font实现的兼容工作是有效的，但是跟原始的乱码效果并不匹配（而我认为原始的乱码效果更加优雅）。所以我根据原始乱码效果编写了一个字体文件来代替last-resort-font和redacted-font。
 >
 > In fact, Kurakart has completed the compatibility part of CKJ, but only posted it on the obsidian forum and not on the github. The compatibility he achieved with last-resort-font and redacted-font works, but doesn't match the original garbled effect (which I think is more elegant). So I wrote a font file based on the original garbled effect to replace last-resort-font and redacted-font.
 >
